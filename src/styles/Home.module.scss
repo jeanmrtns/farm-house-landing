@@ -1,0 +1,67 @@
+.HomeContainer {
+  padding: 1rem;
+}
+
+.HomeContent {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding-top: 4rem;
+
+  h1 {
+    font-size: 5.8rem;
+    line-height: 8rem;
+    font-weight: normal;
+
+    span {
+      display: block;
+      &.greenText {
+        color: #35763c;
+      }
+    }
+  }
+
+  .descriptions {
+    margin-top: 2rem;
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+    color: #777;
+  }
+
+  .groupButtons {
+    display: flex;
+    margin-top: 4rem;
+    align-items: center;
+    width: 25rem;
+    justify-content: space-between;
+
+    button {
+      background-color: #0D1117;
+      padding: 1.5rem 2rem;
+      width: 12rem;
+      border: 0;
+      border-radius: 2rem;
+      transition: filter 0.3s;
+  
+      a {
+        font-weight: bold;
+        font-size: 1rem;
+      }
+    }
+
+    .learnMore {
+      background-color: #02291E;
+      
+      a {
+        color: #FFF;
+      }
+    }
+
+    .shopNow {
+      background-color: #FFF;
+      
+      a {
+        color: #000;
+      }
+    }
+  }
+}

@@ -1,3 +1,7 @@
+# Farm House
+This project was codded in base with a designed posted in Dribbble.com by Barkat Ayesha
+https://dribbble.com/shots/17047384-Farm-House-Web-design-with-illustration
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
